@@ -1,0 +1,21 @@
+body{
+    font-family: 'Comfortaa', cursive;
+}
+
+
+table{
+font-size: 14px;
+width: 40%;
+text-align: left;
+
+}
+
+td, th {
+    padding: 7px;
+}
+
+th {
+    background: #F1F1F1;
+}
+
+
